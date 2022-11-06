@@ -1,0 +1,23 @@
+{
+  "name": "12tails",
+  "version": "1.0.0",
+  "description": "\u0000",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanaphatchul/12Tail.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thanaphatchul/12Tail/issues"
+  },
+  "homepage": "https://github.com/thanaphatchul/12Tail#readme"
+}
